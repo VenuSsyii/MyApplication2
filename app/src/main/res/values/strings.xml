@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">League Of Legends</string>
+    <string name="click_here_noob">Click Here Noob</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="greeting">Hi</string>
+</resources>
